@@ -1,5 +1,5 @@
 import KgButton from "./KgButton"; // Capitalized import
-
+import Hello from "./Hello";
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>This is the best React Course</h1>
       <button>Subscribe</button>
-      <KgButton /> {/* Correct component usage */}
+      <Hello></Hello>
     </div>
   );
 }
