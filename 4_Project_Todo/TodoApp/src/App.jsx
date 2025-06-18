@@ -8,8 +8,6 @@ import './App.css';
 function App() {
 
   return <center className="todo-container">
-
-
     <AppName />
     <AddTodo />
     <div className="item-container">
