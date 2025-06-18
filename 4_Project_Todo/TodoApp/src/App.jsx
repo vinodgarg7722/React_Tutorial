@@ -13,10 +13,8 @@ function App() {
     <AppName />
     <AddTodo />
     <div className="item-container">
-
       <TodoItem1 />
       <TodoItem2 />
-      
     </div>
  
   </center>
